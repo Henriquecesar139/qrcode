@@ -16,7 +16,8 @@ def gerar():
         link = str(url.get())
         ti = str(titulo.get())
         qr = pyqrcode.create(link)
-        qr.png(ti, scale= 10)
+        qr.png(ti, scale = 10)
+        msg3['text'] = 'SUCESSO'
     except:
         msg3['text'] = 'E R R O'
 
@@ -46,3 +47,4 @@ msg3['bg'] = 'gray'
 msg3.pack(side = TOP)
 
 tela.mainloop()
+
