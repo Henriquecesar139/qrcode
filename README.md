@@ -23,8 +23,6 @@
 <p>A função usa esses parâmetros e gera um QRcode</p>
 
 <p>O QRcode será salvo na mesma pasta que o arquivo</p>
-<<<<<<< HEAD
 
 <img src='foto.png' alt = 'Foto da interface do gerador de qrcode' width="100%">
-=======
->>>>>>> 4d2f23928396a07279b57de8c40be5a8078adec2
+
