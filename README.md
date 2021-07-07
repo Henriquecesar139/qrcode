@@ -24,5 +24,5 @@
 
 <p>O QRcode será salvo na mesma pasta que o arquivo</p>
 
-<img src='foto.png' alt = 'Foto da interface do gerador de qrcode' width="100%">
+<img src='foto.png' alt = 'Foto da interface do gerador de qrcode' width="60%">
 
