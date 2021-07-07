@@ -1,23 +1,25 @@
-#Gerador de QRcode feito com python
+<h1>Gerador de QRcode feito com python</h1>
 
-Interface gráfica feita com Tkinter
+<h2>Interface gráfica feita com Tkinter</h2>
 
+<hr>
 
-== Como Usar ==
+<p>Como Usar</p>
 
--Digite a URL que deseja transformar em QRcode
+<p>Digite a URL que deseja transformar em QRcode</p>
 
--Digite um nome para o arquivo (coloque a extensão .png )
+<p>Digite um nome para o arquivo <strong>(coloque a extensão .png )</strong> </p>
 
--Aperte o Botão Gerar
+<p>Aperte o Botão Gerar</p>
 
+<hr>
 
-== Como funciona ==
+<p>Como funciona</p>
 
--O botão dispara uma função
+<p>O botão dispara uma função</p>
 
--A função captura os parâmetros (URL e nome do arquivo)
+<p>A função captura os parâmetros (URL e nome do arquivo)</p>
 
--A função usa esses parâmetros e gera um QRcode
+<p>A função usa esses parâmetros e gera um QRcode</p>
 
--O QRcode será salvo na mesma pasta que o arquivo
+<p>O QRcode será salvo na mesma pasta que o arquivo</p>
