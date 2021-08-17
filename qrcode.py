@@ -1,6 +1,5 @@
 #Importações
 from tkinter import *
-import png
 import pyqrcode
 
 #tela
