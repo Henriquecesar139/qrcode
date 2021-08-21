@@ -6,11 +6,16 @@
 
 <p>Como Usar</p>
 
-<p>Digite a URL que deseja transformar em QRcode</p>
+<ul>
+<li>Digite a URL que deseja transformar em QRcode</li>
 
-<p>Digite um nome para o arquivo <strong>(coloque a extensão .png )</strong> </p>
+<li>Digite um nome para o arquivo <strong>(coloque a extensão .png )</strong> </li>
 
-<p>Aperte o Botão Gerar</p>
+<li>Aperte o Botão Gerar</li>
+
+<li><strong>Opcional</strong>: Coloque um número no campo de 'tamanho', isso aumentará ou diminuirá o tamanho da imagem do qrcode (recomendo algo entre 10 e 50, más esse valor é opcional)</li>
+
+</ul>
 
 <hr>
 
