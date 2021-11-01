@@ -1,7 +1,7 @@
 #Importações
 from tkinter import *
 import pyqrcode
-
+import png
 #tela
 tela = Tk()
 tela.geometry('640x480')
